@@ -1,0 +1,4 @@
+int8 total_images
+---
+bool success
+string message
